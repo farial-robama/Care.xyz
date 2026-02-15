@@ -3,10 +3,12 @@ import { getServiceById } from '@/lib/models/Service';
 
 export async function GET(
   req: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
-    const serviceId = parseInt(params.id);
+    const { id } = await params; // ✅ unwrap promise
+    const serviceId = parseInt(id);
+
     const service = getServiceById(serviceId);
 
     if (!service) {
