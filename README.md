@@ -11,21 +11,21 @@ A comprehensive care service booking platform built with Next.js 15, TypeScript,
 
 ## 🌟 Live Demo
 
-- **Live Site**: [Your Vercel URL]
-- **GitHub Repository**: [Your GitHub URL]
+- **Live Site**: https://care-xyz-gamma-two.vercel.app
+- **GitHub Repository**: https://github.com/farial-robama/Care.xyz
 
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage Hero](screenshots/hero.png)
+![Homepage Hero](/hero.png)
 *Modern hero section with animated gradients*
 
 ### Services
-![Services Section](screenshots/services.png)
+![Services Section](/Services.png)
 *Three professional care services*
 
 ### Booking Flow
-![Booking Page](screenshots/booking.png)
+![Booking Page](/booking.png)
 *Easy 3-step booking process*
 
 ## ✨ Key Features
