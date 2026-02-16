@@ -17,15 +17,15 @@ A comprehensive care service booking platform built with Next.js 15, TypeScript,
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage Hero](/hero.png)
+![Homepage Hero](public/hero.png)
 *Modern hero section with animated gradients*
 
 ### Services
-![Services Section](/Services.png)
+![Services Section](public/Services.png)
 *Three professional care services*
 
 ### Booking Flow
-![Booking Page](/booking.png)
+![Booking Page](public/booking.png)
 *Easy 3-step booking process*
 
 ## ✨ Key Features
@@ -482,7 +482,7 @@ git push origin main
 - [ ] Multiple payment methods
 - [ ] Referral program
 
-## 🤝 Contributing
+<!-- ## 🤝 Contributing
 
 This is an academic project, but suggestions are welcome!
 
@@ -494,14 +494,14 @@ This is an academic project, but suggestions are welcome!
 
 ## 📝 License
 
-This project is created as an academic assignment and is open source under the MIT License.
+This project is created as an academic assignment and is open source under the MIT License. -->
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**[Farial Robama]**
+- GitHub: [farial-robama](https://github.com/farial-robama)
+- Email: farialrobama15@gmail.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/farial-robama)
 
 ## 🙏 Acknowledgments
 
@@ -513,9 +513,9 @@ This project is created as an academic assignment and is open source under the M
 - React Icons
 - The open-source community
 
-## 📞 Support
+<!-- ## 📞 Support
 
-For support, email support@care.xyz or join our Slack channel.
+For support, email support@care.xyz or join our Slack channel. -->
 
 ---
 
