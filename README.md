@@ -136,8 +136,8 @@ npm install
 
 ### 3. Environment Variables
 
-Create `.env.local` file in the root directory:
-```env
+Create `.env.local` file in the root directory
+<!-- ```env
 # MongoDB
 MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/careXyz?retryWrites=true&w=majority
 
@@ -162,7 +162,7 @@ STRIPE_SECRET_KEY=sk_test_your_key
 
 # Base URL
 NEXT_PUBLIC_BASE_URL=http://localhost:3000
-```
+``` -->
 
 ### 4. Setup Firebase
 
