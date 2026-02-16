@@ -519,6 +519,6 @@ For support, email support@care.xyz or join our Slack channel. -->
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Farial Robama**
 
-*Last Updated: [Current Date]*
+<!-- *Last Updated: [Current Date]* -->
