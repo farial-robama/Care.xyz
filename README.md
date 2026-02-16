@@ -125,7 +125,7 @@ A comprehensive care service booking platform built with Next.js 15, TypeScript,
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/care-xyz.git
+git clone git clone https://github.com/farial-robama/Care.xyz.git
 cd care-xyz
 ```
 
